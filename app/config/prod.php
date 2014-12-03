@@ -7,8 +7,8 @@ $app['db.options'] = array(
     'host'     => '127.0.0.1',
     'port'     => '3306',
     'dbname'   => 'weblinks',
-    'user'     => 'root',
-    'password' => '',
+    'user'     => 'weblinks_user',
+    'password' => 'secret',
 );
 
 // define log parameters
